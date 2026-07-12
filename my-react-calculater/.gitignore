@@ -7,12 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-my-react-app/node_modules
-react-router/node_modules
-reactContextBasic/node_modules
-backGround-change-project/node_modules
-redux-todo-app/node_modules
-my-react-calculater/node_modules
+node_modules
 dist
 dist-ssr
 *.local
